@@ -1,1 +1,1 @@
-# learning-material
+# This reporsitory consist learning materials for developers
